@@ -1,6 +1,6 @@
 ## Neural Networks For Pong
 
-![Atari Pong](https://i.ytimg.com/vi/moqeZusEMcA/hqdefault.jpg)
+![Pong](https://i.ytimg.com/vi/moqeZusEMcA/hqdefault.jpg)
 
 ### Introduction
 
